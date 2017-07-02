@@ -1,5 +1,27 @@
 ## Welcome to GitHub Pages
 
+I'd like to add something here. 中文是否支持？ 
+
+H1 :# Header 1
+H2 :## Header 2
+H3 :### Header 3
+H4 :#### Header 4
+H5 :##### Header 5
+H6 :###### Header 6
+
+链接 :[Title](URL)
+加粗 :**Bold**
+斜体字 :*Italics*
+*删除线 :~~text~~
+*高亮 :==text==
+段落 : 段落之间空一行
+换行符 : 一行结束时输入两个空格
+列表 :* 添加星号成为一个新的列表项。
+引用 :> 引用内容
+内嵌代码 : `alert('Hello World');`
+画水平线 (HR) :--------
+
+
 You can use the [editor on GitHub](https://github.com/QuantumZhang/QuantumZhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
