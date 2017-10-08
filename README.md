@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+[使用 GitHub, Jekyll 打造自己的免费独立博客](http://blog.csdn.net/on_1y/article/details/19259435)
+
+
 I'd like to add something here. 中文是否支持？ 
 
 H1 :# Header 1
